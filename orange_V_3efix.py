@@ -195,8 +195,8 @@ print('\n btextbxydata= ',btextbxydata)
 #COMPUTE (x,y)=[0,1] needed from PPTX
 bx=[btextbxydata[i][2] for i in range (numvar)]
 by=[btextbxydata[i][3] for i in range (numvar)]
-wx=[btextbxydata[i][4] for i in range (numvar)]
-hy=[btextbxydata[i][5] for i in range (numvar)]
+wx=[btextbxydata[i][5] for i in range (numvar)]
+hy=[btextbxydata[i][4] for i in range (numvar)]
 
 #note this scaling has changed 2017-07-06
 #SCALE as needed for the plot
