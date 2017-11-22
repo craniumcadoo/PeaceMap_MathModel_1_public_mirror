@@ -111,7 +111,7 @@ for child in shape_list:
         if rectColor == "accent2" or rectColor == "C0504D":
             color = "gray"
         nodes_file.write(
-            full_text.rstrip() + "\t" + color + "\t" + x_offset + "\t" + y_offset + "\t" + width + "\t" + height)
+            full_text.rstrip() + "\t" + color + "\t" + x_offset + "\t" + y_offset + "\t" + height + "\t" + width)
         # nodes_file.write(identifier + "\t" + color + "\t" + x_offset + "\t" + y_offset + "\t" + width + "\t" + height)
         nodes_file.write('\n')
 
