@@ -13,7 +13,7 @@ BOTH HAVE BUG THAT ORIGINALLY LARGER BOX, MADE SMALLER AFTER A CACLULATION, ARE 
 
 Run Python Scripts in this order:
 
-	1. data.py (this only needs to be done once)
+	1. orange_V_3d/e.py (this only needs to be done once)
 
 
 For little plot then run python script:
